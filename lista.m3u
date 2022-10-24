@@ -1,6 +1,41 @@
 #EXTM3U
 
 
+#EXTINF:-1 ,Movistar Liga de Campeones
+
+http://nmnefcubbhquhaawyvyrts.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=445&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 2
+
+http://nfirfhumkyc7t4v96tja2z.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=439&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 3
+
+http://pgql9oj64swq0fhxzny7c2.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=440&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 4
+
+http://rlgq79qnnfkgv26uup0fxi.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=441&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 5
+
+http://nzamxzswpyvm2idftb0uor.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26084&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 6
+
+http://dzmfi1ojtxloibkz2m0y4n.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26085&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 7
+
+http://qekfj6gkyrohl58xydhvm9.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26086&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 8
+
+http://xdp482ikwrpo7gjmbzt1lh.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26711&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Liga de Campeones 9
+
+http://iy8mtlhq3qgse49z7scodb.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26626&t=live&f=ts
 
 #EXTINF:-1 ,Dazn La Liga
 
@@ -22,4 +57,69 @@ http://wpcyqzjtgwblp1neozxed8.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1
 
 http://th9mbjlehpugroa2ouwkfd.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=24922&t=live&f=ts
 
+#EXTINF:-1 ,Dazn 2 ESP
 
+http://cujflka5okyzelsgnm9rnv.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26624&t=live&f=ts
+
+#EXTINF:-1 ,Dazn 2 ESP HD
+
+http://pbewgdn5hiul3frb4r16go.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26163&t=live&f=ts
+
+#EXTINF:-1 ,Dazn 3 ESP
+
+http://epy6pta83lkhui7dooqlfh.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26628&t=live&f=ts
+
+#EXTINF:-1 ,Dazn 3 ESP HD
+
+http://akxrwwtbjhyibqln1yovmf.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=379&t=live&f=ts
+
+#EXTINF:-1 ,La Liga TV BAR
+
+http://zmqkjlwo94i3bchx70tsdz.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26269&t=live&f=ts
+
+#EXTINF:-1 ,Movistar La Liga
+
+http://emxuudg2fprwvbevxloz98.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26046&t=live&f=ts
+
+#EXTINF:-1 ,Movistar La Liga 2
+
+http://yaqunw0mdlzsnjq5foxwjz.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=26048&t=live&f=ts
+
+#EXTINF:-1 ,Movistar La Liga 3
+
+http://xfrwrp4j85vvd6o9ssgheb.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=24927&t=live&f=ts
+
+#EXTINF:-1 ,Movistar La Liga Smartbank
+
+http://4i7qxc2vm3rkaavyd560xs.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=27164&t=live&f=ts
+
+#EXTINF:-1 ,Vamos HD
+
+http://ui2mxiwhn5let7yh6jbkc4.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=352&t=live&f=ts
+
+#EXTINF:-1 ,Eurosport 1
+
+http://ui2mxiwhn5let7yh6jbkc4.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=352&t=live&f=ts
+
+#EXTINF:-1 ,Eurosport 2
+
+http://geetr71qihpbdi4qvv8wkm.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=414&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Deportes
+
+http://gfpqtmia0vcsv9gmyu7dhn.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=359&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Deportes 1
+
+http://uwq0sdxptygfzu1k8em2ci.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=427&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Deportes 2
+
+http://jy8lqqvszebiuhahot70n9.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=428&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Deportes 3
+
+http://kser8pqulcmvnzsh6x0of7.ols.caja.live/live/sup.php?z=997&u=41F101lTag0Gsf1&s=418102762184210&id=429&t=live&f=ts
+
+
+https://raw.githubusercontent.com/marpin04/lista/main/lista.m3u
